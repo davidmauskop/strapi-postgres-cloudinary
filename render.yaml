@@ -1,5 +1,4 @@
 previewsEnabled: true
-
 services:
   - type: web
     name: strapi
